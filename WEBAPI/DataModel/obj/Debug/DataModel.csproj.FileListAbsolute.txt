@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\DataModel.dll
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\DataModel.pdb
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\obj\Debug\DataModel.dll
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\obj\Debug\DataModel.pdb
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\hp\source\repos\DataFlexSolution\WEBAPI\DataModel\obj\Debug\DataModel.csproj.CopyComplete

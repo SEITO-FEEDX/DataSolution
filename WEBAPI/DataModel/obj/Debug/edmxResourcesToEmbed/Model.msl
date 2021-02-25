@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NewsCategoriesModelStoreContainer" CdmEntityContainer="NewsCategoriesEntities">
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="NewsCategoriesModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="CategoryFileName" ColumnName="CategoryFileName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Items">
+      <EntityTypeMapping TypeName="NewsCategoriesModel.Items">
+        <MappingFragment StoreEntitySet="Items">
+          <ScalarProperty Name="Itemsid" ColumnName="Itemsid" />
+          <ScalarProperty Name="ItemsName" ColumnName="ItemsName" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="ItemsText" ColumnName="ItemsText" />
+          <ScalarProperty Name="ItemsDate" ColumnName="ItemsDate" />
+          <ScalarProperty Name="ItemsLink" ColumnName="ItemsLink" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
